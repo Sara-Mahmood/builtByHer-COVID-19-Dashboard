@@ -1,6 +1,10 @@
 # Pakistan COVID-19 Resource Centre
  This repository is initialized for Habib University's COVID19 Dashboard project.
 
+## How to run
+- pip install -r requirement.txt
+- python manage.py runserver
+
 ## Dashboard Link: https://hu-dashboard-covid19.herokuapp.com/
 
 ## Major Features:
